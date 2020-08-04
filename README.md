@@ -3,9 +3,11 @@ A basic task management interface.
 
 View a list of Tasks, create tasks and update tasks.
 
-Web API in .Net Core 3.1. SQL Server Database, ReactJS Client
+Web API in .Net Core 3.1. SQL Server Database, ReactJS Client.
 
----
+<img width="400" alt="tasklist-1" src="https://user-images.githubusercontent.com/15156674/89341415-307c1500-d699-11ea-8f12-9fabf2c0c557.png">
+<img width="400" alt="tasklist-2" src="https://user-images.githubusercontent.com/15156674/89341419-31ad4200-d699-11ea-9f22-435959bf2696.png">
+
 
 ## Contents
 
