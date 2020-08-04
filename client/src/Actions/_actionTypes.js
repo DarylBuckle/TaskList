@@ -1,0 +1,2 @@
+export const LIST_LOAD_COMPLETED = 'LIST_LOAD_COMPLETED';
+export const POST_RESULT = 'POST_RESULT';
